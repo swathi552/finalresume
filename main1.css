@@ -1,11 +1,11 @@
 .flex{
   display:flex;
-  flex-direction:column;
   border:solid;
-  width:"50%";
+  flex-direction:column;
+  width:70%;
   vertical-align: middle;
-  margin-left: auto;
-  margin-right: auto;
+  margin-left:auto;
+  margin-right:auto;
 }
 h1{
   color:red;
@@ -13,10 +13,9 @@ h1{
 }
 h3{
   display:block;
-  background-color:pink;
+  background-color:#ddd;
 }
 table,tr,th,td{
   border:solid;
   text-align:center;
-  
 }
